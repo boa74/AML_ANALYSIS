@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+*-checkpoint.ipynb
+
+# Data files (DO NOT COMMIT)
+*.csv
+*.xlsx
+*.parquet
+*.data
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Results
+results/
+outputs/
+*.png
+*.jpg
+*.pdf
+
+# Models (if any)
+*.pkl
+*.h5
+*.model

@@ -118,11 +118,9 @@ These methods revealed **latent behavioral patterns** not captured by traditiona
 ---
 
 ## 🚀 Future Work
-A future update will extend this repository to include:
-- Anomaly score comparison across models  
-- Ensemble modeling implementation  
-- Visualization of anomaly distributions  
-- End-to-end ML pipeline integration  
+
+The full research includes unsupervised anomaly detection modeling, model comparison, and ensemble design. 
+The corresponding implementation and visualizations will be added to this repository in a future update. 
 
 ---
 

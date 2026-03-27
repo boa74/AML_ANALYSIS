@@ -175,9 +175,8 @@ This repository:
 
 ## 📧 Contact
 
-**Analyst**: Boah Kim  
-**LinkedIn**: [Your LinkedIn URL]  
-**Email**: [Your Email]  
+**Analyst**: Boa Kim  
+**LinkedIn**: https://www.linkedin.com/in/boah-kim/  
 **Project Date**: March 2026
 
 ---
